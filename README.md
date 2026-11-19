@@ -30,19 +30,19 @@ Screenshots are stored in [`screenshots/navigation`](screenshots/navigation).
 
 ### Home
 
-![Home screen](screenshots/navigation/home.png)
+![Home screen](screenshots/navigation/home.jpg)
 
 ### Account
 
-![Account screen](screenshots/navigation/account.png)
+![Account screen](screenshots/navigation/account.jpg)
 
 ### Profile
 
-![Profile screen](screenshots/navigation/profile.png)
+![Profile screen](screenshots/navigation/profile.jpg)
 
 ### My Sports
 
-![My Sports screen](screenshots/navigation/my-sports.png)
+![My Sports screen](screenshots/navigation/my-sports.jpg)
 
 ## Technology Stack
 
